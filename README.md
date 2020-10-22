@@ -1,6 +1,6 @@
 # Python script using selenium webDriver to scrape Yellow Pages of Australia.
 
-I have used **selenium webdriver, xlsxwriter and time** library of Python. I have used **geckodriver** as the driver. One have to add his/her geackodriver location in the below mentioned line.
+I have used **selenium webdriver, xlsxwriter and time** library of Python. I have used **geckodriver** as the driver. One have to add his/her geckodriver location in the below mentioned line.
 ```python
 driver = webdriver.Firefox(executable_path=r"E:\geckodriver.exe")
 ```
